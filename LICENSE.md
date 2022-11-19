@@ -1,4 +1,4 @@
-NIIT License@2022-november-18
+NIIT License@2022-november-19
 ___
 INDIA NON JUDICIAL (c) 2022 and PAN, bcapd7363q.
 ___
@@ -21,13 +21,16 @@ ___
 ---
 by: `Radhar Bikash Dash`
 ___
-between: `Elektor mag`\
-Check out Elektor mag for DIY electronics projects,\
-embedded design/prog tutorials,
-and more (MCUs, AI, prototyping, FPGAs). US - NL - DE - IN\
+between: `Bill Gates`\
+William Henry Gates (III)['३",'तीन"],\
+October 28, 1955,\
+Seattle, Washington, U.S.\
+Education:Harvard University\
+Occupation:Software developer, investor, entrepreneur\
 year: `2022`
 ___
 
 Having Permission PAN INDIA and having ID card No. 'bcapd7363q" 
-issued by GOVERNMENT OF INDIA,(hereinafter called the "Elektor_US@twitter" which expression shell include the legal representatives,successors and assigns )
+issued by GOVERNMENT OF INDIA,\
+(hereinafter called the "**Bill & Melinda Gates Foundation**" which expression shell include the legal representatives,successors and assigns )
 
